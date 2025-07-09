@@ -1,2 +1,27 @@
-# Diwali-Sales-Analysis-
-🎇 Diwali Sales Analysis using Python This project analyzes Diwali sales data to understand customer behavior and sales trends using Python. It includes data cleaning, exploratory data analysis (EDA), and visualizations with Pandas, Matplotlib, and Seaborn to uncover insights like top-selling states, gender-wise purchases, and product preferences.
+# 🎇 Diwali Sales Analysis using Python
+
+This project performs analysis on Diwali sales data to explore customer behavior and festive shopping trends. Using Python libraries like Pandas, Seaborn, and Matplotlib, we uncover key insights that can help retailers make data-driven decisions.
+
+## 📌 Project Highlights
+
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Visualizations for:
+  - Age and Gender-wise Purchase Patterns
+  - Top Performing States
+  - Product Category Preferences
+
+## 📁 Dataset
+
+The dataset contains customer demographic information, product categories, and purchase amounts during the Diwali festival season.
+
+## 🛠 Tools & Libraries
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+
